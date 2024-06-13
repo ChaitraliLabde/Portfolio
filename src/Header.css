@@ -1,0 +1,27 @@
+/* Header.css */
+header {
+  background-color: #003366;
+  color: #FFFFFF;
+  padding: 20px;
+  text-align: center;
+}
+
+header nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+header nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+header nav ul li a {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+header nav ul li a:hover {
+  color: #FFD700;
+}

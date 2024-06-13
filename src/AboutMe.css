@@ -1,0 +1,17 @@
+/* AboutMe.css */
+#about {
+  padding: 50px 20px;
+  background-color:#F0F0F0;
+  text-align: center;
+}
+
+#about h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color:#003366;
+}
+
+#about p {
+  font-size: 1.2rem;
+  color:#003366;
+}
